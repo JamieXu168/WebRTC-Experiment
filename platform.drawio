@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T09:38:09.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.0" etag="UZGRwVSO_ihncqvLE-Kz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T09:40:34.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.0" etag="S6PKLPX64B4tdF6x6hDF" type="github">
   <diagram id="jiIM08LAHTYWhNUmgpoW" name="Page-1">
-    <mxGraphModel dx="1173" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,10 +38,10 @@
         <mxCell id="10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;任务2：第一个应用程序开发与调试&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="394" y="412" width="188" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;在Windows 10操作系统中搭建C语言开发环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=#b85450;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Windows 10操作系统中搭建C语言开发环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=#b85450;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="637" y="69" width="212" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;C语言编译环境搭建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;银河麒麟桌面操作系统中搭建C语言开发环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="637" y="240" width="215" height="47" as="geometry" />
         </mxCell>
         <mxCell id="14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;编写第一个应用程序&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
